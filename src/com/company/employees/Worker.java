@@ -13,4 +13,18 @@ public class Worker extends Employee {
     public void Build (){
         System.out.println("im a worker and im working");
     }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    @Override
+    public void printEmployee() {
+        super.printEmployee();
+        System.out.println("Age:"+ this.getAge()+"\n_________________");
+    }
 }

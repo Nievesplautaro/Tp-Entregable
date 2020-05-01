@@ -14,4 +14,16 @@ public class Domestics extends Construction {
         super(adress,area,days,costPerMeter,employees);
         this.rooms = rooms;
     }
+
+    public int getRooms() {
+        return rooms;
+    }
+
+    @Override
+    public void printConstruction() {
+        super.printConstruction();
+        System.out.println("Rooms: "+this.getRooms()+"\n_______________");
+    }
+
+
 }

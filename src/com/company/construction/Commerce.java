@@ -12,4 +12,16 @@ public class Commerce extends Commercial{
         super(adress, area, days, costPerMeter, employees, name);
         this.item=item;
     }
+
+    public String getItem() {
+        return item;
+    }
+
+    @Override
+    public void printConstruction() {
+        super.printConstruction();
+        System.out.println("Item: "+this.getItem()+"\n_______________");
+    }
+
+
 }

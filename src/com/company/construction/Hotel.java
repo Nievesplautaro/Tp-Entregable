@@ -12,4 +12,13 @@ public class Hotel extends Commercial{
         this.floors = floors;
     }
 
+    public int getFloors() {
+        return floors;
+    }
+
+    @Override
+    public void printConstruction() {
+        super.printConstruction();
+        System.out.println("Floors: "+this.getFloors()+"\n_______________");
+    }
 }

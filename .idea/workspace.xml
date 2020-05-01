@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa9cfff7-e195-4aa5-b4fd-8e58691ff07d" name="Default Changelist" comment="" />
+    <list default="true" id="aa9cfff7-e195-4aa5-b4fd-8e58691ff07d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP Entregable/com/company/Enterprise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP Entregable/com/company/Enterprise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP Entregable/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP Entregable/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP Entregable/com/company/construction/Commerce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP Entregable/com/company/construction/Commerce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP Entregable/com/company/construction/Commercial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP Entregable/com/company/construction/Commercial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP Entregable/com/company/construction/Construction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP Entregable/com/company/construction/Construction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP Entregable/com/company/construction/Domestics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP Entregable/com/company/construction/Domestics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP Entregable/com/company/construction/Hotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP Entregable/com/company/construction/Hotel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP Entregable/com/company/employees/Architect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP Entregable/com/company/employees/Architect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP Entregable/com/company/employees/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP Entregable/com/company/employees/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP Entregable/com/company/employees/MasterBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP Entregable/com/company/employees/MasterBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP Entregable/com/company/employees/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP Entregable/com/company/employees/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Enterprise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Enterprise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/construction/Commerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/construction/Commerce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/construction/Commercial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/construction/Commercial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/construction/Construction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/construction/Construction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/construction/Domestics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/construction/Domestics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/construction/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/construction/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/employees/Architect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/employees/Architect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/employees/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/employees/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/employees/MasterBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/employees/MasterBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/employees/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/employees/Worker.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +39,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bBbco19XXfNfFe0tLG0iCKi0pI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -55,29 +87,37 @@
       <screen x="0" y="0" width="1360" height="725" />
     </state>
     <state x="485" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1360.725@0.0.1360.725" timestamp="1588116978461" />
-    <state width="1317" height="178" key="GridCell.Tab.0.bottom" timestamp="1588165825993">
+    <state width="1317" height="178" key="GridCell.Tab.0.bottom" timestamp="1588370006450">
       <screen x="0" y="0" width="1360" height="725" />
     </state>
-    <state width="1317" height="178" key="GridCell.Tab.0.bottom/0.0.1360.725@0.0.1360.725" timestamp="1588165825993" />
-    <state width="1317" height="178" key="GridCell.Tab.0.center" timestamp="1588165825993">
+    <state width="1317" height="178" key="GridCell.Tab.0.bottom/0.0.1360.725@0.0.1360.725" timestamp="1588370006450" />
+    <state width="1317" height="178" key="GridCell.Tab.0.center" timestamp="1588370006450">
       <screen x="0" y="0" width="1360" height="725" />
     </state>
-    <state width="1317" height="178" key="GridCell.Tab.0.center/0.0.1360.725@0.0.1360.725" timestamp="1588165825993" />
-    <state width="1317" height="178" key="GridCell.Tab.0.left" timestamp="1588165825993">
+    <state width="1317" height="178" key="GridCell.Tab.0.center/0.0.1360.725@0.0.1360.725" timestamp="1588370006450" />
+    <state width="1317" height="178" key="GridCell.Tab.0.left" timestamp="1588370006449">
       <screen x="0" y="0" width="1360" height="725" />
     </state>
-    <state width="1317" height="178" key="GridCell.Tab.0.left/0.0.1360.725@0.0.1360.725" timestamp="1588165825993" />
-    <state width="1317" height="178" key="GridCell.Tab.0.right" timestamp="1588165825993">
+    <state width="1317" height="178" key="GridCell.Tab.0.left/0.0.1360.725@0.0.1360.725" timestamp="1588370006449" />
+    <state width="1317" height="178" key="GridCell.Tab.0.right" timestamp="1588370006450">
       <screen x="0" y="0" width="1360" height="725" />
     </state>
-    <state width="1317" height="178" key="GridCell.Tab.0.right/0.0.1360.725@0.0.1360.725" timestamp="1588165825993" />
+    <state width="1317" height="178" key="GridCell.Tab.0.right/0.0.1360.725@0.0.1360.725" timestamp="1588370006450" />
     <state x="376" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1588360682295">
       <screen x="0" y="0" width="1360" height="725" />
     </state>
     <state x="376" y="186" key="com.intellij.ide.util.TipDialog/0.0.1360.725@0.0.1360.725" timestamp="1588360682295" />
+    <state x="62" y="0" key="new project wizard" timestamp="1588360933838">
+      <screen x="0" y="0" width="1360" height="725" />
+    </state>
+    <state x="62" y="0" key="new project wizard/0.0.1360.725@0.0.1360.725" timestamp="1588360933838" />
     <state x="422" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1588113974106">
       <screen x="0" y="0" width="1360" height="725" />
     </state>
     <state x="422" y="0" key="refactoring.ChangeSignatureDialog/0.0.1360.725@0.0.1360.725" timestamp="1588113974106" />
+    <state x="343" y="46" width="672" height="678" key="search.everywhere.popup" timestamp="1588361763526">
+      <screen x="0" y="0" width="1360" height="725" />
+    </state>
+    <state x="343" y="46" width="672" height="678" key="search.everywhere.popup/0.0.1360.725@0.0.1360.725" timestamp="1588361763526" />
   </component>
 </project>

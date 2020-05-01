@@ -13,4 +13,18 @@ public class Architect  extends Employee{
     public void MakeBlueprints(){
         System.out.println("im making my next blueprint");
     }
+
+    public int getEnrollment() {
+        return enrollment;
+    }
+
+    public void setEnrollment(int enrollment) {
+        this.enrollment = enrollment;
+    }
+
+    @Override
+    public void printEmployee() {
+        super.printEmployee();
+        System.out.println("Enrollment:"+ this.getEnrollment()+"\n_________________");
+    }
 }

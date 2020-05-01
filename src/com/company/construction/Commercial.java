@@ -12,4 +12,15 @@ public class Commercial extends Construction {
         this.name=name;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    @Override
+    public void printConstruction() {
+        super.printConstruction();
+        System.out.println("Name:"+this.getName());
+    }
+
+
 }
